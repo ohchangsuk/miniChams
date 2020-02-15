@@ -1,0 +1,88 @@
+<유저 설정>
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+<프로젝트 clone하기>
+  git clone https://github.com/ohchangsuk/miniChams.git
+
+< git commit or push 할때 계속 인증 요구할때 아래의 코드를 치면 인증 안해도됨(로그인) >
+
+git config --global credential.helper wincred
+
+
+<vscode에서 git 브런치 안나올때>
+
+git remote update
+
+<merge 이해>
+https://jeong-pro.tistory.com/106
+
+master - 최종(서비스 배포용)
+  ㄴ  hotfixes
+  ㄴ  chang - develop
+  ㄴ  won - develop
+  ㄴ  woo -develop
+
+1. master에서 최초 1.0버전(베타)을 만든다.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>[master(service1.0.py)]
+
+
+													
+2. 각 브런치 (chang, won, woo)에서 마스터에서 만든 최초의 1.0버전을 pull한다.>>>>>>>>>>>pull수행>>>[chang, won, woo]에(service1.0.py)생성
+    > 각 브런치에 같은 1.0 버전의 서비스 pull됨,                                            
+
+
+         
+3. 그리고 각 브런치(chang, won, woo)에서 develop브런치로 1.0 버전을 pull하여 작업한다. 
+	 									ㄴ>>>>>>> [chang_develop] [won_develop] [woo_develop]에 에(service1.0.py)생성            
+
+4. develop에서 작업 
+
+
+
+5. develop에서 각 개발자들이 작업하여 기능이 완성되면 되면 각자의 브런치(chang, won, woo)에 merge한다. 
+										ex) merge방법 > 각자 브런치 [chang, won, woo]에 이동하여 "git merge chang_develop" 입력
+
+
+6. 각 브런치에 merge한 추가 기능들을 최종 master에 merge하여 배포한다.
+
+7. 갑작스러운 버그, 운영에 대비하여 hotfixes 브런치에 최신버전의 서비스를 넣어 보관한다.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+프로젝트 화이팅..!!
+
+
+
+
+
+
+
+
+
