@@ -16,6 +16,10 @@ git remote update
 <merge 이해>
 https://jeong-pro.tistory.com/106
 
+
+<특정 Branch만 따로 Clone해오기>
+git clone -b [Branch 이름] [저장소 URL]
+
 master - 최종(서비스 배포용)
   ㄴ  hotfixes
   ㄴ  chang - develop
