@@ -21,6 +21,7 @@ https://jeong-pro.tistory.com/106
 git clone -b [Branch 이름] [저장소 URL]
 
 master - 최종(서비스 배포용)
+  ㄴ test (최종 배포전 test후 master에 merge)
   ㄴ  hotfixes
   ㄴ  chang - develop
   ㄴ  won - develop
