@@ -21,35 +21,37 @@ https://jeong-pro.tistory.com/106
 git clone -b [Branch 이름] [저장소 URL]
 
 master - 최종(서비스 배포용)
-  ㄴ test (최종 배포전 test후 master에 merge)
   ㄴ  hotfixes
-  ㄴ  chang - develop
-  ㄴ  won - develop
-  ㄴ  woo -develop
+  ㄴ develop(최종 배포전 test후 master에 merge)
+    ㄴ  chang - desk
+    ㄴ  won - desk
+    ㄴ  woo -desk
 
 1. master에서 최초 1.0버전(베타)을 만든다.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>[master(service1.0.py)]
 
-
+1-1 master에있던 1.0버전을 develop에서 풀 한다
 													
-2. 각 브런치 (chang, won, woo)에서 마스터에서 만든 최초의 1.0버전을 pull한다.>>>>>>>>>>>pull수행>>>[chang, won, woo]에(service1.0.py)생성
+2. 각 브런치 (chang, won, woo)에서 develop에서 있는 1.0버전을 pull한다.>>>>>>>>>>>pull수행>>>[chang, won, woo]에(service1.0.py)생성
     > 각 브런치에 같은 1.0 버전의 서비스 pull됨,                                            
 
 
          
-3. 그리고 각 브런치(chang, won, woo)에서 develop브런치로 1.0 버전을 pull하여 작업한다. 
-	 									ㄴ>>>>>>> [chang_develop] [won_develop] [woo_develop]에 에(service1.0.py)생성            
+3. 그리고 각 브런치(chang, won, woo)에서 desk브런치로 1.0 버전을 pull하여 작업한다. 
+	 									ㄴ>>>>>>> [chang_desk] [won_desk] [woo_desk]에 에(service1.0.py)생성            
 
-4. develop에서 작업 
-
-
-
-5. develop에서 각 개발자들이 작업하여 기능이 완성되면 되면 각자의 브런치(chang, won, woo)에 merge한다. 
-										ex) merge방법 > 각자 브런치 [chang, won, woo]에 이동하여 "git merge chang_develop" 입력
+4. desk에서 작업 
 
 
-6. 각 브런치에 merge한 추가 기능들을 최종 master에 merge하여 배포한다.
 
-7. 갑작스러운 버그, 운영에 대비하여 hotfixes 브런치에 최신버전의 서비스를 넣어 보관한다.
+5. desk에서 각 개발자들이 작업하여 기능이 완성되면 되면 각자의 브런치(chang, won, woo)에 merge하여 저장한다. 
+										ex) merge방법 > 각자 브런치 [chang, won, woo]에 이동하여 "git merge chang_desk" 입력
+
+
+6. 각 브런치에 merge한 추가 기능들을 develop에 최종 merge하여 저장한다.
+
+7. develop에서 최종 확인후 master에 최종 merge하여 저장후 배포한다.
+
+8. 갑작스러운 버그, 운영에 대비하여 hotfixes 브런치에 최신버전의 파일을 넣어 보관한다.
 .
 .
 .
