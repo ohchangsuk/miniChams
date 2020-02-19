@@ -1,0 +1,91 @@
+,leg,group,HTname,VTname,HTotal_shots,VTotal_shots,HShots_on_target,VShots_on_target,HShots_off_target,VShots_off_target,HShots_saved,VShots_saved,HCorners,VCorners,HFreekicks,VFreekicks,HFouls,VFouls,HOffsides,VOffsides
+0,UEFA CHAMPIONS LEAGUE,Group A  ,Club Brugge KV,Borussia Dortmund,7,  9,2,  3,5,  6,3,  2,4,  6,9,  16,12,  5,4,  4
+1,UEFA CHAMPIONS LEAGUE,Group A  ,AS Monaco,Atlético Madrid,8,  8,2,  4,6,  4,2,  1,4,  6,17,  14,12,  14,2,  3
+2,UEFA CHAMPIONS LEAGUE,Group A  ,Borussia Dortmund,AS Monaco,11,  9,5,  5,6,  4,5,  2,3,  1,10,  13,9,  7,4,  3
+3,UEFA CHAMPIONS LEAGUE,Group A  ,Atlético Madrid,Club Brugge KV,14,  3,6,  1,8,  2,0,  2,6,  4,8,  11,7,  7,4,  1
+4,UEFA CHAMPIONS LEAGUE,Group A  ,Club Brugge KV,AS Monaco,13,  8,5,  3,8,  5,2,  4,3,  2,12,  18,12,  8,6,  4
+5,UEFA CHAMPIONS LEAGUE,Group A  ,Borussia Dortmund,Atlético Madrid,8,  7,5,  2,3,  5,2,  1,4,  5,15,  8,8,  13,0,  2
+6,UEFA CHAMPIONS LEAGUE,Group A  ,AS Monaco,Club Brugge KV,13,  6,7,  6,6,  0,2,  7,6,  1,16,  15,15,  15,0,  1
+7,UEFA CHAMPIONS LEAGUE,Group A  ,Atlético Madrid,Borussia Dortmund,13,  2,8,  0,5,  2,0,  6,7,  4,7,  10,8,  7,2,  0
+8,UEFA CHAMPIONS LEAGUE,Group A  ,Atlético Madrid,AS Monaco,9,  9,4,  4,5,  5,4,  2,8,  5,15,  17,13,  14,4,  1
+9,UEFA CHAMPIONS LEAGUE,Group A  ,Borussia Dortmund,Club Brugge KV,9,  4,2,  0,7,  4,0,  2,6,  1,6,  10,8,  5,2,  1
+10,UEFA CHAMPIONS LEAGUE,Group A  ,Club Brugge KV,Atlético Madrid,4,  7,2,  3,2,  4,3,  2,2,  8,9,  14,13,  8,1,  1
+11,UEFA CHAMPIONS LEAGUE,Group A  ,AS Monaco,Borussia Dortmund,3,  11,0,  4,3,  7,2,  0,4,  6,16,  10,8,  12,2,  4
+12,UEFA CHAMPIONS LEAGUE,Group B  ,FC Barcelona,PSV Eindhoven,18,  11,9,  2,9,  9,1,  5,8,  1,13,  11,10,  12,1,  1
+13,UEFA CHAMPIONS LEAGUE,Group B  ,Inter Milan,Tottenham Hotspur,11,  11,4,  9,7,  2,8,  3,8,  4,19,  14,11,  15,3,  4
+14,UEFA CHAMPIONS LEAGUE,Group B  ,PSV Eindhoven,Inter Milan,10,  17,4,  9,6,  8,7,  3,5,  6,13,  11,10,  12,1,  1
+15,UEFA CHAMPIONS LEAGUE,Group B  ,Tottenham Hotspur,FC Barcelona,6,  12,5,  8,1,  4,4,  3,3,  1,12,  26,19,  9,7,  3
+16,UEFA CHAMPIONS LEAGUE,Group B  ,PSV Eindhoven,Tottenham Hotspur,9,  18,3,  9,6,  9,7,  1,1,  6,17,  13,10,  15,3,  2
+17,UEFA CHAMPIONS LEAGUE,Group B  ,FC Barcelona,Inter Milan,16,  7,12,  2,4,  5,2,  10,9,  3,20,  15,11,  20,4,  0
+18,UEFA CHAMPIONS LEAGUE,Group B  ,Inter Milan,FC Barcelona,8,  19,1,  9,7,  10,6,  1,3,  10,9,  13,11,  9,2,  0
+19,UEFA CHAMPIONS LEAGUE,Group B  ,Tottenham Hotspur,PSV Eindhoven,16,  5,9,  4,7,  1,3,  7,16,  6,18,  14,14,  16,0,  2
+20,UEFA CHAMPIONS LEAGUE,Group B  ,PSV Eindhoven,FC Barcelona,18,  16,9,  8,9,  8,4,  8,4,  5,12,  16,15,  11,1,  1
+21,UEFA CHAMPIONS LEAGUE,Group B  ,Tottenham Hotspur,Inter Milan,12,  6,5,  2,7,  4,2,  4,9,  6,13,  17,16,  12,1,  1
+22,UEFA CHAMPIONS LEAGUE,Group B  ,FC Barcelona,Tottenham Hotspur,10,  10,3,  7,7,  3,6,  2,2,  5,19,  13,9,  18,4,  1
+23,UEFA CHAMPIONS LEAGUE,Group B  ,Inter Milan,PSV Eindhoven,17,  6,8,  5,9,  1,4,  8,6,  2,21,  16,15,  17,1,  4
+24,UEFA CHAMPIONS LEAGUE,Group C  ,Red Star Belgrade,SSC Napoli,5,  12,4,  8,1,  4,8,  4,8,  8,15,  10,8,  14,2,  1
+25,UEFA CHAMPIONS LEAGUE,Group C  ,Liverpool FC,Paris Saint-Germain,12,  7,7,  5,5,  2,3,  4,13,  1,10,  15,14,  8,1,  2
+26,UEFA CHAMPIONS LEAGUE,Group C  ,Paris Saint-Germain,Red Star Belgrade,29,  5,17,  3,12,  2,2,  11,13,  0,17,  14,9,  16,5,  1
+27,UEFA CHAMPIONS LEAGUE,Group C  ,SSC Napoli,Liverpool FC,12,  3,4,  0,8,  3,0,  3,5,  1,11,  20,13,  10,7,  1
+28,UEFA CHAMPIONS LEAGUE,Group C  ,Paris Saint-Germain,SSC Napoli,11,  13,6,  5,5,  8,3,  5,6,  2,18,  14,10,  15,4,  3
+29,UEFA CHAMPIONS LEAGUE,Group C  ,Liverpool FC,Red Star Belgrade,17,  3,12,  0,5,  3,0,  7,4,  1,20,  15,11,  18,4,  2
+30,UEFA CHAMPIONS LEAGUE,Group C  ,Red Star Belgrade,Liverpool FC,8,  12,4,  4,4,  8,3,  2,5,  9,14,  7,7,  10,0,  4
+31,UEFA CHAMPIONS LEAGUE,Group C  ,SSC Napoli,Paris Saint-Germain,12,  5,5,  3,7,  2,2,  4,8,  4,14,  14,13,  14,1,  0
+32,UEFA CHAMPIONS LEAGUE,Group C  ,SSC Napoli,Red Star Belgrade,14,  9,9,  4,5,  5,3,  6,7,  3,19,  9,8,  14,1,  5
+33,UEFA CHAMPIONS LEAGUE,Group C  ,Paris Saint-Germain,Liverpool FC,11,  4,8,  1,3,  3,0,  5,5,  5,22,  18,13,  21,5,  1
+34,UEFA CHAMPIONS LEAGUE,Group C  ,Liverpool FC,SSC Napoli,16,  8,4,  3,12,  5,3,  3,3,  3,10,  22,16,  6,6,  4
+35,UEFA CHAMPIONS LEAGUE,Group C  ,Red Star Belgrade,Paris Saint-Germain,6,  14,3,  9,3,  5,5,  2,0,  3,14,  22,16,  11,6,  3
+36,UEFA CHAMPIONS LEAGUE,Group D  ,FC Schalke 04,FC Porto,9,  6,4,  5,5,  1,4,  3,7,  3,17,  15,11,  17,4,  0
+37,UEFA CHAMPIONS LEAGUE,Group D  ,Galatasaray SK,Lokomotiv Moscow,15,  6,10,  2,5,  4,2,  7,7,  6,16,  15,12,  16,3,  0
+38,UEFA CHAMPIONS LEAGUE,Group D  ,Lokomotiv Moscow,FC Schalke 04,8,  10,1,  4,7,  6,2,  1,4,  4,13,  15,15,  11,0,  2
+39,UEFA CHAMPIONS LEAGUE,Group D  ,FC Porto,Galatasaray SK,12,  9,5,  3,7,  6,3,  4,6,  5,24,  23,19,  20,4,  4
+40,UEFA CHAMPIONS LEAGUE,Group D  ,Galatasaray SK,FC Schalke 04,8,  10,2,  7,6,  3,6,  2,6,  6,17,  12,10,  15,2,  2
+41,UEFA CHAMPIONS LEAGUE,Group D  ,Lokomotiv Moscow,FC Porto,7,  10,4,  5,3,  5,2,  3,3,  2,16,  15,13,  14,2,  2
+42,UEFA CHAMPIONS LEAGUE,Group D  ,FC Porto,Lokomotiv Moscow,11,  10,7,  2,4,  8,1,  3,4,  10,16,  19,17,  14,2,  2
+43,UEFA CHAMPIONS LEAGUE,Group D  ,FC Schalke 04,Galatasaray SK,11,  5,5,  1,6,  4,1,  3,2,  1,18,  21,14,  16,7,  2
+44,UEFA CHAMPIONS LEAGUE,Group D  ,Lokomotiv Moscow,Galatasaray SK,10,  6,4,  4,6,  2,4,  3,7,  6,13,  23,17,  13,6,  0
+45,UEFA CHAMPIONS LEAGUE,Group D  ,FC Porto,FC Schalke 04,11,  2,6,  2,5,  0,1,  3,5,  1,19,  13,11,  17,2,  2
+46,UEFA CHAMPIONS LEAGUE,Group D  ,FC Schalke 04,Lokomotiv Moscow,9,  6,6,  2,3,  4,2,  5,11,  2,15,  19,16,  13,3,  2
+47,UEFA CHAMPIONS LEAGUE,Group D  ,Galatasaray SK,FC Porto,15,  4,7,  3,8,  1,0,  4,7,  4,17,  16,13,  14,3,  3
+48,UEFA CHAMPIONS LEAGUE,Group E  ,Ajax Amsterdam,AEK Athens,11,  3,6,  1,5,  2,1,  3,13,  3,16,  19,13,  14,6,  2
+49,UEFA CHAMPIONS LEAGUE,Group E  ,SL Benfica,Bayern Munich,9,  9,4,  6,5,  3,4,  4,5,  4,13,  11,10,  10,1,  3
+50,UEFA CHAMPIONS LEAGUE,Group E  ,AEK Athens,SL Benfica,10,  9,6,  6,4,  3,3,  4,8,  4,9,  18,12,  9,6,  0
+51,UEFA CHAMPIONS LEAGUE,Group E  ,Bayern Munich,Ajax Amsterdam,13,  12,4,  7,9,  5,6,  3,9,  2,20,  13,12,  18,1,  2
+52,UEFA CHAMPIONS LEAGUE,Group E  ,AEK Athens,Bayern Munich,6,  13,2,  7,4,  6,5,  2,1,  10,8,  9,9,  7,0,  1
+53,UEFA CHAMPIONS LEAGUE,Group E  ,Ajax Amsterdam,SL Benfica,15,  11,11,  4,4,  7,4,  9,3,  2,20,  24,21,  20,3,  0
+54,UEFA CHAMPIONS LEAGUE,Group E  ,SL Benfica,Ajax Amsterdam,10,  8,8,  4,2,  4,3,  7,2,  2,16,  19,18,  14,1,  2
+55,UEFA CHAMPIONS LEAGUE,Group E  ,Bayern Munich,AEK Athens,12,  1,8,  0,4,  1,0,  6,11,  1,13,  19,13,  13,6,  0
+56,UEFA CHAMPIONS LEAGUE,Group E  ,AEK Athens,Ajax Amsterdam,4,  13,2,  5,2,  8,3,  2,3,  5,13,  18,17,  11,1,  2
+57,UEFA CHAMPIONS LEAGUE,Group E  ,Bayern Munich,SL Benfica,13,  5,10,  2,3,  3,1,  5,4,  3,9,  15,12,  8,3,  1
+58,UEFA CHAMPIONS LEAGUE,Group E  ,SL Benfica,AEK Athens,21,  3,8,  0,13,  3,0,  7,13,  6,15,  9,9,  13,0,  2
+59,UEFA CHAMPIONS LEAGUE,Group E  ,Ajax Amsterdam,Bayern Munich,12,  12,9,  9,3,  3,6,  5,3,  3,17,  14,13,  15,1,  2
+60,UEFA CHAMPIONS LEAGUE,Group F  ,Shakhtar Donetsk,TSG 1899 Hoffenheim,8,  12,4,  6,4,  6,4,  2,5,  9,13,  12,10,  10,2,  3
+61,UEFA CHAMPIONS LEAGUE,Group F  ,Manchester City,Olympique Lyon,20,  7,8,  3,12,  4,1,  7,7,  1,16,  15,14,  12,1,  4
+62,UEFA CHAMPIONS LEAGUE,Group F  ,TSG 1899 Hoffenheim,Manchester City,4,  12,2,  6,2,  6,4,  1,1,  8,19,  13,12,  17,1,  2
+63,UEFA CHAMPIONS LEAGUE,Group F  ,Olympique Lyon,Shakhtar Donetsk,13,  14,7,  7,6,  7,5,  5,3,  4,17,  18,11,  16,7,  1
+64,UEFA CHAMPIONS LEAGUE,Group F  ,TSG 1899 Hoffenheim,Olympique Lyon,19,  10,10,  6,9,  4,3,  7,4,  2,7,  20,15,  5,5,  2
+65,UEFA CHAMPIONS LEAGUE,Group F  ,Shakhtar Donetsk,Manchester City,9,  20,3,  7,6,  13,2,  2,5,  5,19,  6,5,  15,1,  4
+66,UEFA CHAMPIONS LEAGUE,Group F  ,Olympique Lyon,TSG 1899 Hoffenheim,21,  11,13,  7,8,  4,5,  10,6,  9,20,  10,7,  17,3,  3
+67,UEFA CHAMPIONS LEAGUE,Group F  ,Manchester City,Shakhtar Donetsk,11,  6,8,  2,3,  4,2,  2,4,  2,3,  17,13,  3,4,  0
+68,UEFA CHAMPIONS LEAGUE,Group F  ,Olympique Lyon,Manchester City,9,  9,4,  6,5,  3,4,  2,1,  7,12,  6,5,  10,1,  2
+69,UEFA CHAMPIONS LEAGUE,Group F  ,Shakhtar Donetsk,Olympique Lyon,4,  14,2,  7,2,  7,6,  1,4,  5,18,  6,6,  12,0,  6
+70,UEFA CHAMPIONS LEAGUE,Group F  ,Manchester City,TSG 1899 Hoffenheim,21,  10,11,  5,10,  5,4,  9,8,  6,20,  11,9,  15,2,  5
+71,UEFA CHAMPIONS LEAGUE,Group G  ,Real Madrid,AS Roma,26,  11,12,  4,14,  7,4,  9,16,  11,7,  9,7,  4,2,  3
+72,UEFA CHAMPIONS LEAGUE,Group G  ,AS Roma,FC Viktoria Plzen,19,  4,13,  1,6,  3,1,  8,11,  1,10,  16,12,  7,4,  3
+73,UEFA CHAMPIONS LEAGUE,Group G  ,AS Roma,CSKA Moscow,19,  7,13,  4,6,  3,4,  10,5,  10,15,  9,7,  12,2,  3
+74,UEFA CHAMPIONS LEAGUE,Group G  ,CSKA Moscow,AS Roma,9,  14,6,  6,3,  8,4,  5,4,  3,17,  15,14,  16,1,  1
+75,UEFA CHAMPIONS LEAGUE,Group G  ,FC Viktoria Plzen,Real Madrid,7,  11,3,  6,4,  5,1,  3,4,  14,19,  15,12,  11,3,  8
+76,UEFA CHAMPIONS LEAGUE,Group G  ,CSKA Moscow,FC Viktoria Plzen,12,  10,6,  6,6,  4,4,  5,4,  9,18,  13,11,  14,2,  4
+77,UEFA CHAMPIONS LEAGUE,Group G  ,AS Roma,Real Madrid,12,  10,5,  8,7,  2,6,  5,6,  5,18,  13,13,  11,0,  7
+78,UEFA CHAMPIONS LEAGUE,Group G  ,Real Madrid,CSKA Moscow,11,  10,7,  6,4,  4,2,  7,8,  6,15,  10,10,  14,0,  1
+79,UEFA CHAMPIONS LEAGUE,Group G  ,FC Viktoria Plzen,AS Roma,11,  8,5,  4,6,  4,3,  3,4,  3,18,  17,14,  16,3,  2
+80,UEFA CHAMPIONS LEAGUE,Group H  ,BSC Young Boys,Manchester United,11,  10,4,  5,7,  5,2,  4,9,  7,10,  13,11,  8,2,  2
+81,UEFA CHAMPIONS LEAGUE,Group H  ,Juventus FC,BSC Young Boys,13,  6,9,  2,4,  4,2,  6,3,  2,13,  11,6,  13,5,  0
+82,UEFA CHAMPIONS LEAGUE,Group H  ,Valencia CF,BSC Young Boys,9,  8,5,  2,4,  6,1,  2,2,  5,30,  20,14,  25,6,  5
+83,UEFA CHAMPIONS LEAGUE,Group H  ,Manchester United,Juventus FC,5,  11,4,  5,1,  6,4,  4,2,  6,16,  19,16,  14,3,  2
+84,UEFA CHAMPIONS LEAGUE,Group H  ,Valencia CF,BSC Young Boys,9,  8,5,  2,4,  6,1,  2,2,  5,30,  20,14,  25,6,  5
+85,UEFA CHAMPIONS LEAGUE,Group H  ,Juventus FC,Manchester United,14,  5,3,  3,11,  2,2,  2,6,  3,17,  15,15,  17,0,  0
+86,UEFA CHAMPIONS LEAGUE,Group H  ,Manchester United,BSC Young Boys,17,  6,4,  1,13,  5,1,  3,2,  4,20,  21,13,  19,8,  1
+87,UEFA CHAMPIONS LEAGUE,Group H  ,Juventus FC,Valencia CF,15,  3,7,  1,8,  2,1,  6,6,  3,14,  19,18,  14,1,  0
+88,UEFA CHAMPIONS LEAGUE,Group H  ,BSC Young Boys,Juventus FC,8,  19,3,  8,5,  11,7,  1,4,  11,10,  19,19,  8,0,  2
+89,UEFA CHAMPIONS LEAGUE,Group H  ,Valencia CF,Manchester United,8,  10,4,  5,4,  5,4,  2,5,  5,25,  11,6,  23,5,  2
